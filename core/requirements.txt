@@ -1,0 +1,8 @@
+django
+pillow
+coverage: de lam viec voi test
+
+
+
+1. install pillow to upload image
+2. connect to postgresql
